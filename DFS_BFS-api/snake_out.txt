@@ -1,0 +1,6 @@
+5
+20 17 14 11 8 2 1
+All reacheable
+-1
+No Solutions
+26 27 28 29 30 
